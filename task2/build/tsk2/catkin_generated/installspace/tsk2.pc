@@ -1,0 +1,8 @@
+prefix=/home/satvikaryan/task2/install
+
+Name: tsk2
+Description: Description of tsk2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/satvikaryan/task1/install
+
+Name: tsk1
+Description: Description of tsk1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

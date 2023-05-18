@@ -1,0 +1,2 @@
+tsk
+-DCATKIN_DEVEL_PREFIX=/home/satvikaryan/task/devel -DCMAKE_INSTALL_PREFIX=/home/satvikaryan/task/install -G Unix Makefiles

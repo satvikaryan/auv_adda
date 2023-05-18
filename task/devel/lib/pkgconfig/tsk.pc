@@ -1,0 +1,8 @@
+prefix=/home/satvikaryan/task/devel
+
+Name: tsk
+Description: Description of tsk
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

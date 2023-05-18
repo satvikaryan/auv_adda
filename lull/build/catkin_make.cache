@@ -1,0 +1,2 @@
+lull
+-DCATKIN_DEVEL_PREFIX=/home/satvikaryan/lull/devel -DCMAKE_INSTALL_PREFIX=/home/satvikaryan/lull/install -G Unix Makefiles
